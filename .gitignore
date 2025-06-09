@@ -1,0 +1,40 @@
+# Auto-generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.json
+*.props
+*.targets
+
+# Build directories
+bin/
+obj/
+
+# Visual Studio generated files
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.AssemblyAttributes.cs
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.GlobalUsings.g.cs
+*.genruntimeconfig.cache
+*.FileListAbsolute.txt
+MvcTestingAppManifest.json
+
+# Reference assemblies
+refs/
+
+# Localization folders
+cs/
+de/
+es/
+fr/
+it/
+ja/
+ko/
+pl/
+pt-BR/
+ru/
+tr/
+zh-Hans/
+zh-Hant/
